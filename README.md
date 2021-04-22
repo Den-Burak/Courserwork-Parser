@@ -1,5 +1,5 @@
 ## Coursework
-# Wprk with Ruby / Rarsing sites
+# Learn language Ruby and Parsing sites
 
 ### Use Lib: ope-uri, nokogiri, json, csv
 
